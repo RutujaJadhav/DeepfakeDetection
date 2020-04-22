@@ -6,3 +6,18 @@ With the recent advancements in AI technology in-particularly General Adversaria
 
 The link to our dataset:https://www.kaggle.com/unkownhihi/deepfake/
 
+
+Explored models and their performance comparison
+Approach   Test accuracy    F1 
+
+Baseline Inception 0.63    0.6
+
+Stochastic gradient 0.57.  0.57
+
+AdaBoost        0.57       0.56
+
+GradientBoosting. 0.59.    0.61
+
+FacialGradient CNN 0.95.   0.87
+
+BiModal encoder learning0.930.85
